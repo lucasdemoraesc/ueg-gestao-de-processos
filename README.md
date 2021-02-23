@@ -4,6 +4,6 @@ O sistema em questão tem por objetivo automatizar o controle de finanças pesso
 
 Será utilizado como base uma planilha desenvolvida com este mesmo intuito. A planilha possui algumas limitações e a ideia é que o sistema possa contorna-las.
 
-<div style="text-align:center">
-	<a href="Recursos/PlanilhaReferência.jpeg"><img alt="Imagem da planilha" src="Recursos/PlanilhaReferência.jpeg" style="width: 450px"></a>
-</div>
+<p align="center">
+  <img width="460" height="300" src="Recursos/PlanilhaReferência.jpeg">
+</p>

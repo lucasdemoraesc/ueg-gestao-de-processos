@@ -6,6 +6,7 @@ Será utilizado como base uma planilha desenvolvida com este mesmo intuito. A pl
 
 ## Links Úteis
 - :books: [Acompanhar Projeto](https://github.com/lucasdemoraesc/ueg-gestao-de-processos/projects/1)
+- :eyes: [Documento de visão](Documento%20de%20visão.md)
 
 ## Planilha de refência:
 <img width="460" height="300" src="Recursos/PlanilhaReferência.jpeg">

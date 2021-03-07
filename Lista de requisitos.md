@@ -1,4 +1,4 @@
-# :clipboard:	 Lista de Requisitos
+# :clipboard: Lista de Requisitos
 
 - [Requisitos Funcionais](#requisitos-funcionais)
 - [Requisitos Não Funcionais](#requisitos-não-funcionais)

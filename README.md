@@ -9,6 +9,7 @@ Será utilizado como base uma planilha desenvolvida com este mesmo intuito. A pl
 - :eyes: [Documento de visão](Documento%20de%20visão.md)
 - :clipboard: [Lista de requisitos](Lista%20de%20requisitos.md)
 - :jigsaw: [Diagrama de classes](Diagrama%20de%20classes.png)
+- :man_dancing:	[Casos de uso](Caso%20de%20uso%20principal.png)
 
 
 ## Planilha de refência:
